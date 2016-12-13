@@ -2,6 +2,10 @@
 
 === Vim ===
 
+* [[Editing]]
+
+===== Plugins =====
+
 * [[Vim-Wiki]]
 * [[UltiSnip]]
 

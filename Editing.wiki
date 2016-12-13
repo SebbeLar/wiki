@@ -1,0 +1,3 @@
+== Editing in Vim ==
+
+<F2> Toggle paste mode.
