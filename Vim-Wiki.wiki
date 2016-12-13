@@ -1,0 +1,20 @@
+= Vim-Wiki =
+
+=== Key bindings ===
+
+===== Wiki =====
+
+*<Leader>ww* Open default wiki file
+<Leader>wt Open default wiki file in new tab
+<Enter> Follow/Create wiki link
+<Shift-Enter> Split and Follow/Create wiki link
+<Backspace> Go back to previous wiki link
+<Tab> Find next wiki link
+<Shift-Tab> Find previous wiki link
+
+===== Diary =====
+
+<Leader> w <Leader> w Open today's diary file
+<Leader> wi Open diary index for wiki
+<Leader> w <Leader> i Update current diary index
+

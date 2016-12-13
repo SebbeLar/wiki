@@ -1,0 +1,41 @@
+== Javascript Snippets ==
+
+
+==== Functions ====
+
+_fun_ Snippet fofr making a function
+
+_f "" w_ Snippet for making an anonymous function
+
+==== Flow Control ====
+
+_if_ Snippet for if statement
+
+_ife_ Snippet for if/else statement
+
+_ter_ Snippet for tertiary conditional
+
+_switch_ Snippet for switch statement
+
+_case_ Snippet for case in switch
+
+_ret_ Snippet for return
+
+==== DOM Selectors ====
+
+_qs_ Snippet for querySelector
+_qsa_ Snippet for querySelectorAll
+
+==== Debugging ====
+
+_cl_ Snippet for console log
+
+==== ES6 ====
+
+_im_ Snippet for import
+
+_imm_ Snippet for import { member }
+
+_caf_ Snippet for const that is a arrow function
+
+_af_ Snippet for arrow function

@@ -1,0 +1,20 @@
+= UltiSnip =
+
+=== Key bindings ===
+
+<c-j> Expand snippet
+<c-b> Jump forward in snippet tabstops
+<c-z> Jump backwards in snippet tabstops
+
+=== Snippets ===
+
+* [[Javascript]]
+* React
+* HTML
+* CSS
+* Elm
+
+=== Links ===
+
+Find more snippets at
+https://github.com/honza/vim-snippets/tree/master/snippets

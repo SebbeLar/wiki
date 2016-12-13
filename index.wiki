@@ -1,0 +1,13 @@
+= Sebastians Wiki =
+
+=== Vim ===
+
+* [[Vim-Wiki]]
+* [[UltiSnip]]
+
+
+=== Javascript ===
+
+* Vanilla
+* React
+
