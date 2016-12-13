@@ -18,3 +18,10 @@
 <Leader> wi Open diary index for wiki
 <Leader> w <Leader> i Update current diary index
 
+==== Links ====
+
+Vim-Wiki cheatsheet:
+http://thedarnedestthing.com/vimwiki%20cheatsheet
+
+Diary information:
+http://blog.mague.com/?p=602
