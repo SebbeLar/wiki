@@ -1,0 +1,4 @@
+== Symlinked my dotfiles ==
+
+Today I moved all my dotfiles into a directory and symlinked them to my home directory.
+Then I pushed all my dotfiles to GitHub.

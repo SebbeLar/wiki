@@ -1,17 +1,10 @@
 = Sebastians Wiki =
 
-=== Vim ===
+=== Development ===
 
-* [[Editing]]
+* [[Vim]]
+* [[Javascript]]
 
-===== Plugins =====
+=== Organisation ===
 
-* [[Vim-Wiki]]
-* [[UltiSnip]]
-
-
-=== Javascript ===
-
-* Vanilla
-* React
-
+* [[Todo]]
