@@ -1,3 +1,6 @@
 === Work Todo's ===
 
 * Comment my .vimrc
+* Add editor.config to dotfiles and vim
+* Get Ag and implement in Vim
+* Make arrow keys useful in Vim
