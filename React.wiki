@@ -1,0 +1,25 @@
+== React Snippets ==
+
+_ir_ Triggers import React from 'react'
+
+_ird_ Triggers import ReactDom
+
+_cdm_ Component did Mount
+
+_cdup_ Component Did Update
+
+_cwr_ Component Will Recve Props
+
+_cwu_ Component Will Update
+
+_rcc_ Create Class X extends Component
+
+_ercc_ Same as rcc but with export default
+
+_ctor_ Constructor
+
+_ren_ Render
+
+_sst_ this.setState
+
+

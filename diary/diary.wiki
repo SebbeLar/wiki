@@ -4,5 +4,6 @@
 == 2016 ==
 
 === December ===
-    * [[2016-12-14|Symlinked my dotfiles]]
-    * [[2016-12-13|Started my Wiki]]
+  * [[2016-12-15|React stuff]]
+  * [[2016-12-14|Symlinked my dotfiles]]
+  * [[2016-12-13|Started my Wiki]]

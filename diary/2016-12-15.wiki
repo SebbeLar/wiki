@@ -1,0 +1,36 @@
+== React stuff ==
+
+Did some React stuff and played around with some async calls.
+TIL 1: Inside a *fetch* call to an API _this_ is not bound to the class. To get around this use an
+arrow function with sets _this_ to the outer scope.
+
+``` Javascript
+  fetch('some/api/endpoint')
+    .then(function(response) {
+        this.setState({
+          something: response
+         });
+    });
+```
+
+The above will not work because _this_ is correctly bound. Instead use an arrow function like this.
+
+``` Javascript
+  fetch('some/api/endpoint')
+    .then((response) => {
+        this.setState({
+          something: response
+         });
+    });
+ ```
+
+ When we use an arrow function _this_ gets correctly set to the class.
+
+ TIL 2:
+
+ If we need to pass an argument to a function in a *onCLick* attribute then we have to pass that as
+ another function.
+
+ ``` Javascript
+  onClick={() => this.myFn(argument)}
+```

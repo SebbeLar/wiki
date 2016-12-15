@@ -9,7 +9,7 @@
 === Snippets ===
 
 * [[Javascript Snippets]]
-* React
+* [[React]]
 * HTML
 * CSS
 * Elm
