@@ -1,0 +1,24 @@
+== Ack ==
+
+To search type _:Ack [options] {pattern} {(directories)}
+It searches recursively in {[directories]} (which defaults to the current directory)
+
+====== Options ======
+
+_-i_ Ignores case distinction in pattern
+_-v_ Inverts the search pattern
+
+====== File extension ======
+
+Instead of specifying a directory you can specify a file extension instead.
+Just add _--_ followed by the extension. _--js_, _--css_ .
+Warning .jsx and .elm are not supported.
+
+==== Key bindings ====
+
+_o_ or <Enter> Opens the file
+_O_ Opens the file and closes the quicklist window
+_go_ Open a preview of the file but maintains focus on the quicklist window
+_h_ Opens a horizontal split
+_v_ Opens a vertical split
+_q_ closes the quicklist window

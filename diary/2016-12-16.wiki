@@ -1,0 +1,5 @@
+== Installed Ack-Vim ==
+
+Installed Ack-vim today and read about it. It's alot quicker than grep and also ignores any files
+that's in my _.gitignore_. Also continued to play around with React. Got a better understanding of
+conditional rendering in React.

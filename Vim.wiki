@@ -10,3 +10,5 @@ Movement
 
 [[Vim-Wiki]]
 [[UltiSnip]]
+[[Ack]]
+[[Vim-Surround]]

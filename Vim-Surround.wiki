@@ -1,0 +1,19 @@
+== Vim-Surround ==
+
+==== Adding ====
+
+_ys{motion}[surround-type]_ For example _ysiw"_ puts quotes around the word the cursors on.
+
+==== Changing ====
+
+cs{motion}[surround-type] For example _csiw" changes the surroundings to quotes on the word the
+cursors on.
+
+==== Deleting ====
+
+ds[surround-type] Removes the surroundings from the cursors position.
+
+==== Gotchas ====
+
+If you use _(_ the result will be *(Whatever)*, if you use _)_ the result will be *( Whatever )* with
+spaces around.

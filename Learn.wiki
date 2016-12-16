@@ -1,5 +1,10 @@
 === Learn Todo's ===
 
+===== Short Term =====
 * grep
 * awk
 * sed
+
+===== Long Term =====
+* React Native
+
