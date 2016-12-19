@@ -4,6 +4,8 @@
 == 2016 ==
 
 === December ===
+  * [[2016-12-19|zsh aliases and Git]]
+  * [[2016-12-16|Installed Ack-Vim]]
   * [[2016-12-15|React stuff]]
   * [[2016-12-14|Symlinked my dotfiles]]
   * [[2016-12-13|Started my Wiki]]

@@ -1,0 +1,7 @@
+== zsh aliases and Git ==
+
+Wrote down a bunch of zsh aliases that i will begin to use in my workflow. Also learned about a few
+more Git tricks. When I want to check the diff between my staging area and my last commit, do
+`git diff` or use the alias `gd`. When I want to check the diff between my working area and the last
+commit do `git diff --cached` or use the alias `gdca`. To display all the changes made to the
+commit in the commit message screen do `git commit -v` or use the alias `gc`.
