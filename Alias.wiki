@@ -1,0 +1,47 @@
+=== UNIX Alias ===
+
+===== Git =====
+
+_gst_ git status
+_gss_ git status -s
+_g_ git
+_ga_ git add
+_gaa_ git add --all
+_gc_ git commit -v
+_gcmsg_ git commit -m
+_gd_ git diff
+_gdca_ git diff --cached
+_gp_ git push
+_ggpush_ git push origin ${git_current_branch}
+_gb_ git branch
+_gco_ git checkout
+_gcb_ git checkout -b
+_glg_ git log --stat
+_glgg_ git log --graph
+_glgga_ git log --graph --decorate --all
+_glgm_ git log --graph --max-count=10
+_glgp_ git log --stat -p
+_glo_
+_glog_
+_gloga_
+_glol_
+_glola_
+_gm_ git merge
+_grb_ git rebase
+
+===== Tmux =====
+
+_ta_ tmux attach -t
+_ts_ tmux new-session -s
+_tl_ tmux list-sessions
+_tkss_ tmux kill-session -t
+
+
+===== NPM =====
+
+_npmD_ npm i -D
+_npmS_ npm i -S
+_npmg_ npm i -g
+_npmst_ npm start
+_npmt_ npm test
+
