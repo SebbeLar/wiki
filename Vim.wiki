@@ -5,6 +5,7 @@
 Edit
 Movement
 [[Toggle]]'s
+[[Buffers]]
 
 ==== Plugins ====
 

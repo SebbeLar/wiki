@@ -2,46 +2,46 @@
 
 ===== Git =====
 
-_gst_ git status
-_gss_ git status -s
-_g_ git
-_ga_ git add
-_gaa_ git add --all
-_gc_ git commit -v
-_gcmsg_ git commit -m
-_gd_ git diff
-_gdca_ git diff --cached
-_gp_ git push
-_ggpush_ git push origin ${git_current_branch}
-_gb_ git branch
-_gco_ git checkout
-_gcb_ git checkout -b
-_glg_ git log --stat
-_glgg_ git log --graph
-_glgga_ git log --graph --decorate --all
-_glgm_ git log --graph --max-count=10
-_glgp_ git log --stat -p
-_glo_
-_glog_
-_gloga_
-_glol_
-_glola_
-_gm_ git merge
-_grb_ git rebase
+`gst` git status
+`gss` git status -s
+`g` git
+`ga` git add
+`gaa` git add --all
+`gc` git commit -v
+`gcmsg` git commit -m
+`gd` git diff
+`gdca` git diff --cached
+`gp` git push
+`ggpush` git push origin ${git_current_branch}
+`gb` git branch
+`gco` git checkout
+`gcb` git checkout -b
+`glg` git log --stat
+`glgg` git log --graph
+`glgga` git log --graph --decorate --all
+`glgm` git log --graph --max-count=10
+`glgp` git log --stat -p
+`glo`
+`glog`
+`gloga`
+`glol`
+`glola`
+`gm` git merge
+`grb` git rebase
 
 ===== Tmux =====
 
-_ta_ tmux attach -t
-_ts_ tmux new-session -s
-_tl_ tmux list-sessions
-_tkss_ tmux kill-session -t
+`ta` tmux attach -t
+`ts` tmux new-session -s
+`tl` tmux list-sessions
+`tkss` tmux kill-session -t
 
 
 ===== NPM =====
 
-_npmD_ npm i -D
-_npmS_ npm i -S
-_npmg_ npm i -g
-_npmst_ npm start
-_npmt_ npm test
+`npmD` npm i -D
+`npmS` npm i -S
+`npmg` npm i -g
+`npmst` npm start
+`npmt` npm test
 
