@@ -1,0 +1,14 @@
+=== [[Buffers]] ===
+
+===== Symbols in buffer list =====
+
+* `#` Last active buffer.
+* `+` Buffer is modified.
+* `a` Buffer is active
+* `h` Buffer is hidden, meaning it has been modified but it's not active.
+
+===== Key bindings and Ex commands =====
+* `<Ctrl- ^ >` Cycles between the two last active buffers.
+* `:bn` Nest buffer.
+* `:bp` Previous buffer.
+
