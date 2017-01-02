@@ -1,0 +1,4 @@
+=== Books to read ===
+
+* Functional light JS - Kyle Simpson
+*

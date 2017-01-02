@@ -1,0 +1,14 @@
+=== Stuff to checkout and Learn 2017 ===
+
+===== Learn =====
+
+* Elixir
+* Even more Elm
+
+
+===== Checkout =====
+
+* Reason
+* Webpack-blocks
+* GraphQL
+* Next.js
