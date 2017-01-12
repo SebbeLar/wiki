@@ -13,3 +13,9 @@ Movement
 [[UltiSnip]]
 [[Ack]]
 [[Vim-Surround]]
+
+==== Links ====
+
+* Vim-jsbeautify, for formating javascript, html and css.
+  - https://github.com/maksimr/vim-jsbeautify
+
