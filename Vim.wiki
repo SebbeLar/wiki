@@ -18,4 +18,6 @@ Movement
 
 * Vim-jsbeautify, for formating javascript, html and css.
   - https://github.com/maksimr/vim-jsbeautify
+* Vim color schemes
+  - http://vimcolors.com/
 

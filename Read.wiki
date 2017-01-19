@@ -1,4 +1,11 @@
 === Books to read ===
 
 * Functional light JS - Kyle Simpson
-*
+
+
+=== Articles to read ===
+
+* React binding patterns
+  - https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.ngmru72xg
+
+

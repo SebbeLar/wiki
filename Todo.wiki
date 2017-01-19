@@ -1,7 +1,7 @@
 == Todo ==
 
 * [[Work]] 2 Post
-* Private
+* [[Private]]
 * [[Read]]
 * [[Learn]] 4 Posts
 * Try
