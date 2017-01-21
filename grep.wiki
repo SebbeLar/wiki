@@ -1,0 +1,34 @@
+==== grep ====
+
+I have aliased grep to Ack which gives me color highlights and line number by default
+
+Basic use for searching a file or files
+
+grep [search phrase] {file(s)}
+- grep div index.html
+- grep div index.html otherfile.html
+- grep div *.html
+
+Basic use for searching recursive thru directories
+grep -r [search phrase] directory
+- grep -r div .
+  * _._ is from directory that we are currently in
+
+Use grep after piping from find
+- find . -name "*.html" | xargs grep div
+
+Get Context around the result, gives (N) lines of context After or Before
+- grep -A (N) {search phrase}
+  * grep -A 2 div
+- grep -B (N) {search phrase}
+  * grep -B 3 div
+- grep -C (N) div {search phrase}
+  * grep -C 2 div
+
+Get color highlights for the search phrase (default if using Ack)
+- grep --color {search phrase}
+
+Display line number the search phrase match appear on (inc in Ack)
+- grep -n {search phrase}
+
+
