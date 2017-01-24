@@ -1,5 +1,3 @@
 === Work Todo's ===
 
-* Comment my .vimrc
-* Make arrow keys useful in Vim
 * Make .ackrc file https://gist.github.com/chapati23/2988102

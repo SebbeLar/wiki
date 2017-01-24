@@ -2,3 +2,5 @@
 
 * [[Alias]]
 * [[grep]]
+* [[Homebrew]]
+* [[taskwarrior]]

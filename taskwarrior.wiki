@@ -1,0 +1,42 @@
+=== Task Warrior ===
+
+===== Commands =====
+
+* add
+  - Adds a new task, `task add Buy milk`
+* list
+  - Lists all tasks based on priority, `task list`
+* projects
+  - Lists all projects and tasks per project, `task projects`
+* done
+  - Marks a task ass done, `task [ID] done`
+* log
+  - Adds a project and sets it as done, `task log Buy milk`
+* modify
+  - Modifies a task, see more: https://taskwarrior.org/docs/commands/modify.html
+* start
+  - Sets a task as active, `task [ID] start`
+* stop
+  - Sets a task as no longer active, `task [ID] stop`
+* count
+  - Gives a count of tasks, `task count`
+
+===== Task Metadata =====
+
+* project
+  - Sets the project of a task, `task add Buy milk project:Home`
+* due
+  - Sets the due date of a task, `task add Buy milk due:2017-01-29`
+  - `now` Current local date and time
+  - `eod` End of day
+  - `tomorrow` Local date for tomorrow
+  - `monday, tuesday ...` Local date for specified day, after today
+  - `1st,2nd ...` Local date for next Nth day
+* priority
+  - Sets the priority of a task `task [ID] modify priority: M`
+  - Priorities: [H]igh, [M]edium, [L]ow
+  - Important: L is still higher than no priority
+* +
+  - Adds a tag, for easy search, to a task. `task add Buy milk +buy +food`
+* depends
+  - Adds another task as a dependency for a task, `task [ID] modify depends:OTHER_ID`

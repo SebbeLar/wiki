@@ -1,0 +1,16 @@
+=== Homebrew ===
+
+* `brew install`
+  - Installs
+* `brew update`
+  - Update Homebrew
+* `brew outdated`
+  - List outdated installs
+* `brew upgrade`
+  - Upgrades everything
+* `brew cleanup`
+  - By default, Homebrew does not uninstall old versions. To see what will be removed `brew cleanup
+    -n`
+* `brew man`
+  - Shows manual for Homebrew
+
