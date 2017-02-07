@@ -4,3 +4,8 @@
 * [[grep]]
 * [[Homebrew]]
 * [[taskwarrior]]
+
+===== Default =====
+
+* `cd -`
+  - Takes you back to the last used directory
