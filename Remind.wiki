@@ -1,0 +1,10 @@
+** VIM SUROUND **
+ys{motion}[surround-type] For example ysiw" puts quotes around the word the cursors on.
+
+cs{motion}[surround-type] For example csiw" changes the surroundings to quotes on the word the
+cursors on.
+
+ds[surround-type] Removes the surroundings from the cursors position.
+
+If you use _(_ the result will be *(Whatever)*, if you use _)_ the result will be *( Whatever )* with
+spaces around.
